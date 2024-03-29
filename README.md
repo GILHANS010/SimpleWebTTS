@@ -30,4 +30,4 @@ The Web Speech API and, by extension, Simple Web TTS are supported by most moder
 
 Simple Web TTS is open source and distributed under the Apache License. See the LICENSE file for more information.
 
-Project Link: [[https://github.com/GILHANS010/SimpleWebTTS](https://github.com/GILHANS010/SimpleWebTTS)]
+Project Link: [[https://github.com/GILHANS010/SimpleWebTTS](https://gilhans010.github.io/SimpleWebTTS/)]
